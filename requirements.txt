@@ -9,5 +9,5 @@ pyperclip==1.8.2
 PyRect==0.1.4
 PyScreeze==0.1.28
 pytweening==1.0.4
-sqlparse==0.4.2
+sqlparse==0.4.4
 tzdata==2021.5
